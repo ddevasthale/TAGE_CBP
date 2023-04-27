@@ -11,7 +11,7 @@ total predicts:                   2213673
 
 The user can change the file "tread.cc" if they want to print more/ different statistics.
 
-##Instructions
+## Instructions
 
 The files for predictors are:
    predictor_tage.cc, predictor_tage.h, main_org.cc - TAGE branch predictor
